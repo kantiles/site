@@ -1,0 +1,39 @@
+/* css styles */
+
+h1 {
+    font-family: "Alegreya";
+    font-weight: 900;
+    font-size: 70pt;
+}
+
+h2 {
+    font-family: "Alegreya";
+    font-weight: 700;
+}
+
+body {
+    font-family: Figtree;
+}
+ 
+.div-right {
+    overflow: visible;
+    /* pour avoir le titre visible sur la deuxième colonne */ 
+    z-index: 10000;
+} 
+
+.div-right2{
+    text-align: right;
+    direction: rtl;
+}
+
+.box-1 {
+    background-color: orange;
+}
+
+.box-2 {
+    font-size: 10pt;
+}
+
+.box-3 {
+    background-color: lightblue;
+}
